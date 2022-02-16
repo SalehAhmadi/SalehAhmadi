@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalehAhmadi
-- 👀 I’m interested in C#,Angular,...
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in C#, JavaScript, SQL and much much more!
+- 🌱 I’m currently deepening my understanding of .Net family.
 - 💞️ I’m looking to collaborate on all the above and more...
 - 📫 You can reach me via Linkedin
 
