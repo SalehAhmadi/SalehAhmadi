@@ -1,7 +1,5 @@
 <h1 align="left">_hellofriend</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salehahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="salehahmadi" /> </p>
-
 - 🙎‍♂️ I’m Saleh Ahmadi
 - 📗 [Civilica](https://civilica.com/p/363451/) and [ResearchGate](https://www.researchgate.net/profile/Mohammad-Saleh-Ahmadi-2) certified researcher
 - 🔭 I’m currently working as Technical Lead at [Aspian](https://aspiansystem.ir/)
